@@ -15,4 +15,4 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 # Project Purpose
-This Project is for intership under supervision of <br>`Camelia Sinthia` <br>_Senior Lecturer_ <br>_IUBAT_
+This Project is for internship under the supervision of <br>`Camelia Sinthia` <br>_Senior Lecturer_ <br>_IUBAT_
